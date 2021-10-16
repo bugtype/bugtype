@@ -1,22 +1,47 @@
 
-### 😎  Interest & Skills 
+### 😎 Most Experiences & Skills
 
 [![TypeScript-web](https://img.shields.io/badge/TypeScript-web-007ACC.svg?logo=typescript)](https://www.typescriptlang.org/)
-[![React-lib](https://img.shields.io/badge/React-hooks-61DAFB.svg?logo=react)](https://reactjs.org/)
 [![Javascript-language](https://img.shields.io/badge/Javascript-language-F7DF1E.svg?logo=javascript)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+
+[![React-lib](https://img.shields.io/badge/React-hooks-61DAFB.svg?logo=react)](https://reactjs.org/)
 [![next-dot-js](https://img.shields.io/badge/nextjs-ssr-000000.svg?logo=vercel)](https://nextjs.org/)
-[![three-js](https://img.shields.io/badge/threejs-webgl-000000.svg?logo=webgl)](https://threejs.org/)
+
+[![Redux-state](https://img.shields.io/badge/Redux-React-764ABC.svg?logo=redux)](https://redux.js.org/)
+[![Redux-Recoil](https://img.shields.io/badge/Recoil-React-764ABC?logo=react)](https://recoil.org/)
+
 [![styled-components-style](https://img.shields.io/badge/%F0%9F%92%85%20styled--components-CssInJs-orange.svg)](https://github.com/styled-components/styled-components)
-[![Codesandobx-IDE](https://img.shields.io/badge/Codesandbox-IDE-000000.svg?logo=codesandbox)](https://codesandbox.io/)
-[![Redux-state](https://img.shields.io/badge/Redux-web-764ABC.svg?logo=redux)](https://redux.js.org/)
-[![MongoDB-db](https://img.shields.io/badge/MongoDB-Database-47A248.svg?logo=mongodb)](https://www.mongodb.com/)
+
+![Jest](https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white)
+
 [![I-love-VSCode](https://img.shields.io/badge/I%20love-VSCode-007ACC.svg?logo=visual-studio-code)](https://code.visualstudio.com/)
+
+
+### 😄 Experiences & Skills 
+
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome%20Extension-4285F4?logo=GoogleChrome&logoColor=white)
+
+![Swift](https://img.shields.io/badge/swift-F54A2A?logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
+
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?&logo=Xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)
+
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+
+### ⚽️  Interest
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
+[![three-js](https://img.shields.io/badge/threejs-webgl-000000.svg?logo=webgl)](https://threejs.org/)
 
 
 👥  Team Collaboration
 
 [![Jira-tool](https://img.shields.io/badge/Jira-tool-0052CC.svg?logo=jira-software)](https://www.atlassian.com/software/jira)
 [![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence)](https://www.atlassian.com/ko)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
 
 ### 📞  Connect with me  
 
