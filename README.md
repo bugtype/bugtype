@@ -37,11 +37,13 @@
 [![three-js](https://img.shields.io/badge/threejs-webgl-000000.svg?logo=webgl)](https://threejs.org/)
 
 
-👥  Team Collaboration
+### 👥  Team Collaboration
 
 [![Jira-tool](https://img.shields.io/badge/Jira-tool-0052CC.svg?logo=jira-software)](https://www.atlassian.com/software/jira)
 [![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence)](https://www.atlassian.com/ko)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
+
+---
 
 ### 📞  Connect with me  
 
